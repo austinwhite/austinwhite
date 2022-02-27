@@ -1,4 +1,4 @@
-#### "The cowards never started and the weak died along the way, that leaves us."
+#### Hi, I'm Austin, a Software Engineer in Colorado. Welcome to my GitHub.
 
 [![](https://img.shields.io/website?color=7ea4b3&down_color=7ea4b3&down_message=AustinWhite.com&label=Website&style=flat&up_color=7ea4b3&up_message=AustinWhite.com&url=https%3A%2F%2Fwww.austinwhite.com%2F)](https://www.austinwhite.com/)
 ![](https://img.shields.io/badge/-Linux-d5dbdb?style=flat&logo=linux&logoColor=black)
